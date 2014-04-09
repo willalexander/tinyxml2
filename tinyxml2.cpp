@@ -21,12 +21,12 @@ must not be misrepresented as being the original software.
 distribution.
 */
 
-hello :):)
+
 
 #include "tinyxml2.h"
 
 
-da de dah de fucking dahhh...
+
 
 #include <new>		// yes, this one new style header, is in the Android SDK.
 #   ifdef ANDROID_NDK
